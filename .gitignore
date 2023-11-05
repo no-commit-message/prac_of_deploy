@@ -3,3 +3,6 @@ venv/
 
 # cache files
 __pycache__/
+
+# DATABASE
+db.sqlite3
